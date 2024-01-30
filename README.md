@@ -3,6 +3,6 @@
 _____
 
 Load Page
-<img src="https://github.com/LEMDER/rent-gym-androidapp/blob/main/images/Screenshot_20230519-220419_rent-gym.jpg" alt="Load page" width="200" height="200">
+<img src="https://github.com/LEMDER/rent-gym-androidapp/blob/main/images/Screenshot_20230519-220419_rent-gym.jpg" alt="Load page" width="50" height="20">
 ![Load page](https://github.com/LEMDER/rent-gym-androidapp/blob/main/images/Screenshot_20230519-220419_rent-gym.jpg)
 
