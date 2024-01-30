@@ -18,3 +18,10 @@ _____
 
 <img src="https://github.com/LEMDER/rent-gym-androidapp/blob/main/images/Screenshot_20230519-221621_rent-gym.jpg" alt="Login page" width="360" height="780">
 
+## Favorite Page
+
+<img src="https://github.com/LEMDER/rent-gym-androidapp/blob/main/images/Screenshot_20230519-225243_rent-gym.jpg" alt="Login page" width="360" height="780">
+
+## Profile Page
+
+<img src="https://github.com/LEMDER/rent-gym-androidapp/blob/main/images/Screenshot_20230519-224412_rent-gym.jpg" alt="Login page" width="360" height="780">
